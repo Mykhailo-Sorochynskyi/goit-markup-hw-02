@@ -1,6 +1,197 @@
+/*#region body*/
 body {
   font-family: 'Roboto', sans-serif;
-
-  color: slate;
-  background-color: white;
+  color: #2e2f42;
 }
+
+ul,
+ol {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+h2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+/*#endregion body*/
+
+/*#region header*/
+/*#region nav*/
+.menu {
+}
+.header-logo {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.span-header-logo {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.menu-list {
+}
+.menu-list-item {
+}
+.menu-link {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.menu-link:hover,
+.menu-link:focus {
+  color: #404bbf;
+}
+.menu-link:active {
+  color: #404bbf;
+}
+/*#endregion nav*/
+
+/*#region adres*/
+.address {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.adress-list {
+}
+.adress-list-item {
+}
+.adress-link {
+  color: #434455;
+}
+.adress-link:hover,
+.adress-link:focus {
+  color: #404bbf;
+}
+/*#endregion adres*/
+/*#endregion header*/
+
+/*#region main*/
+/*#region head text page*/
+.head-text-page {
+  background: #2e2f42;
+}
+.head-text-page-title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07143;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+}
+.order-service-btn {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+  background-color: #4d5ae5;
+  cursor: pointer;
+}
+.order-service-btn:hover,
+.order-service-btn:focus {
+  background-color: #404bbf;
+}
+
+/*#endregion head text page*/
+
+/*#region What describes us*/
+.hero {
+}
+.hero-title {
+}
+.hero-list {
+}
+.hero-list-item {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+/*#endregion What describes us*/
+
+/*#region our team*/
+.our-team {
+}
+.our-team-title {
+}
+.team-list {
+}
+.team-list-item {
+}
+.team-img {
+}
+/*#endregion our team*/
+
+/*#region our portfolio*/
+/*#endregion our portfolio*/
+
+/*#region our team*/
+.Portfolio {
+}
+.portfolio-title {
+}
+.portfolio-list {
+}
+.portfolio-list-item {
+}
+.portfolio-img {
+}
+/*#endregion our team*/
+
+/*#endregion main*/
+
+/*#region footer*/
+.footer {
+  background: #2e2f42;
+}
+.footer-logo {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.span-footer {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #f4f4fd;
+}
+.text-footer {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+/*#endregion footer*/
