@@ -150,10 +150,15 @@ p {
 
 /*#region our team*/
 .our-team {
+  background-color: #f4f4fd;
 }
 .our-team-title {
+  line-height: 1.11;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 .team-list {
+  background-color: #ffffff;
 }
 .team-list-item {
 }
@@ -162,6 +167,21 @@ p {
 /*#endregion our team*/
 
 /*#region our portfolio*/
+.Portfolio {
+}
+.portfolio-title {
+  color: #2e2f42;
+}
+.portfolio-list {
+}
+.portfolio-list-item {
+}
+.portfolio-img {
+}
+.portfolio-list-item-title {
+}
+.portfolio-list-item-text {
+}
 /*#endregion our portfolio*/
 
 /*#region our team*/
