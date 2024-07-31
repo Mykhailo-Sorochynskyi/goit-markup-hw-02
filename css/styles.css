@@ -168,11 +168,16 @@ p {
 
 /*#region our portfolio*/
 .Portfolio {
+  color: #2e2f42;
+  text-transform: capitalize;
+  background-color: #ffffff;
 }
 .portfolio-title {
-  color: #2e2f42;
+  line-height: 1.11;
+  text-transform: capitalize;
 }
 .portfolio-list {
+  background-color: #ffffff;
 }
 .portfolio-list-item {
 }
@@ -183,28 +188,6 @@ p {
 .portfolio-list-item-text {
 }
 /*#endregion our portfolio*/
-
-/*#region our team*/
-.Portfolio {
-  color: #f4f4fd;
-  text-transform: capitalize;
-  background-color: #ffffff;
-}
-.portfolio-title {
-  line-height: 1.11;
-  text-transform: capitalize;
-}
-.portfolio-list {
-}
-.portfolio-list-item {
-}
-.portfolio-img {
-}
-.team-list-item-title {
-}
-.team-list-item-text {
-}
-/*#endregion our team*/
 
 /*#endregion main*/
 
